@@ -92,8 +92,6 @@ python visualize.py
 
 **Author** — Bhuvan Puttaswamy
 
-**AI Assistance** — Pipeline design, anomaly detection logic, and documentation were developed with the help of [Claude](https://claude.ai) by [Anthropic](https://www.anthropic.com).
-
 **Libraries**
 - [NumPy](https://numpy.org) — Numerical data simulation and statistical thresholding
 - [pandas](https://pandas.pydata.org) — Data loading, cleaning, and interpolation
