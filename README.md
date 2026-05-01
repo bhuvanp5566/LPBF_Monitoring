@@ -85,3 +85,18 @@ python visualize.py
 | `lpbf_data.csv` | Raw simulated sensor data (200 layers) |
 | `lpbf_data_clean.csv` | Cleaned data with anomaly flag columns added |
 | `lpbf_monitoring_dashboard.png` | 3-panel process monitoring chart |
+
+---
+
+## Credits
+
+**Author** — Bhuvan Puttaswamy
+
+**AI Assistance** — Pipeline design, anomaly detection logic, and documentation were developed with the help of [Claude](https://claude.ai) by [Anthropic](https://www.anthropic.com).
+
+**Libraries**
+- [NumPy](https://numpy.org) — Numerical data simulation and statistical thresholding
+- [pandas](https://pandas.pydata.org) — Data loading, cleaning, and interpolation
+- [Matplotlib](https://matplotlib.org) — Process monitoring dashboard visualization
+
+**Concept Reference** — L-PBF process monitoring is an active area of research in metal additive manufacturing. The 3-sigma anomaly detection approach is a standard statistical process control (SPC) technique widely used in manufacturing quality assurance.
